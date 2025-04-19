@@ -1,0 +1,6 @@
+Welcome to our show today where we're joined by Waseem Abbas, a passionate AI/ML developer with a knack for building scalable applications and intelligent solutions. Waseem, thanks for being here! Can you start by telling us a little bit about your background and how you got into AI/ML?
+That's really cool! I'd love to dive deeper into some of your projects. Can you walk us through your experience with building the Student Shield Android app? What inspired you to create an app focused on safety for university students?
+I can imagine how useful that must be. You've also worked on several machine learning projects. Can you tell us about your experience with fake news prediction using NLP? What approaches did you take to tackle this problem?
+That's fascinating. Your work on brain tumor detection using CNNs is also impressive. Can you share more about that project and how you approached it?
+I'm sure our listeners would love to know more about your experience with deploying machine learning models. Can you tell us about your end-to-end ML pipeline project and how you used Flask and Docker for deployment?
+That's a great overview of your projects and experience. What do you think is the most exciting development in AI/ML right now, and how do you see yourself contributing to it?

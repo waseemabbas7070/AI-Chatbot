@@ -1,0 +1,82 @@
+WASEEM  ABBAS  
++923021070070  | maharwaseem0070@gmail.com  | LinkedIn | GitHub  
+ 
+SUMMARY  
+Passionate  AI/ML  Developer  with  experience  in building  scalable  applications  and intelligent  solutions.  Adept  at 
+developing AI models, optimizing machine learning algorithms, and deploying applications. Committed to 
+continuous learning and staying updated with the latest technologies.  
+ 
+EDUCATION  
+Matric : Govt High School  74/4R, Sahiwal – 899/1100 Marks (2019) 
+I.C.S:  Govt  Post  Graduate  College,  Sahiwal  – 651/1100  Marks  (2021) 
+BS Software Engineering (Ongoing)  
+ 
+PROJECTS  
+1: Student  Shield (Android  App):  
+Student Shield is a safety -focused Android app designed to empower unive rsity students by 
+providing emergency SOS alerts, incident reporting, and self -defense resources. It ensures quick 
+assistance  through  automated  alerts  to contacts  and security  personnel,  promoting  a secure  campus 
+environment.  
+2: Machine  Learning  & Deep  Learning  Projects:  
+Fake  News  Prediction  using  Machine  Learning  with  Python  
+ This project aims to detect fake news using machine learning and Natural Language 
+Processing (NLP) techniques. It utilizes Python along with key libraries such as NumPy, 
+Pandas, NLTK, and Scikit -learn to process textual data and build a classification model . 
+Spam  Detection  Using  NLP:  
+ Developed a machine learning model to classify messages as spam or not using Natural 
+Language Processing (NLP). Applied text preprocessing techniques like tokenization, stop 
+word  removal,  and TF-IDF vectorization,  using  models  such as Naïve  Bayes  for accurate  spam 
+detection.  
+Brain  Tumor  Detection:  
+ Created  a deep  learning  model  to classify  brain  tumors  using  MRI  scan  images.  Implemented 
+Convolutional  Neural  Networks  (CNN)  with  TensorFlow  and Keras  for image  processing  and 
+feature extraction, achieving high accuracy in tumor detection.  
+Big Mart  Sales  Price  Prediction:  
+ Developed a machine learning model to predict Big Mart sales prices based on product and 
+store features. Used regression models (Linear Regression, Random Forest) with feature 
+engineering and hyper parameter tuning to improve accuracy.  
+Mall  Customer  Segmentation:  
+ Created a machine learning model for mall customer segmentation using clustering 
+techniques. Applied K -Means and hierarchical clustering to analyze  customer spending 
+behavior and group them into distinct segments for targeted marketing strategies  
+End -to-End  Machine  Learning  Pipeline:  
+ Developed  and deployed  machine  learning  models  using  Google  Colab  and transitioned  them 
+to VS Code for production.  
+ Built  complete  ML pipelines,  including  data  loading,  preprocessing,  model  training,  and 
+evaluation.  
+ Implemented  hyper  parameter  tuning  and model  optimization  techniques  to improve  
+performance.  
+ Used  Flask  and Docker  for deploying  models  into  production  environments.  
+ 
+SKILLS  
+ 
+ 
+ Python  (NumPy,  Pandas,  Scikit -Learn,  Matplotlib)  
+ Machine  Learning  & AI Pipeline  Development  
+ Machine  Learning  (Regression,  Classification,  Clustering,  SVM,  PCA)  
+ Deep  Learning  (ANN,  CNN,  TensorFlow,  Keras)  
+ Model  Evaluation  & Hyperparameter  Tuning  
+ Chatbot  Development:  (Chatsimple.ai)  
+ Flask  & Docker  
+ Git & Github  
+ 
+Certification  
+ 
+AI Automation  Agency  - Chatbot  Creation  
+Udemy  | Year  of Completion:  2025  
+Learned  to build  AI-powered  chatbots  without  coding  using  ChatSimple.ai,  automating  customer 
+interactions and business workflows.  
+Basics  of Python  
+Certified  in Basics  of Python  from  UniAthena,  in partnership  with  Cambridge  International  Qualifications, 
+UK (2024), focusing on core programming concepts, syntax, and  applications.  
+Essentials  of Data  Visualization  using  MS Excel  
+Completed  Essentials  of Data  Visualization  using  MS Excel  from  UniAthena,  in partnership  with  Acacia 
+University (2024), focusing on data analysis, chart creation, and effective visualization techniques for 
+professional development.  
+Machine  Learning  for Beginners  
+Completed  Machine  Learning  for Beginners  by Lunes  eLearning  on Cursa  (2024),  covering  fundamental  ML 
+concepts, algorithms, data preprocessing, and model building for beginners.  
+Effective  Leadership  
+Completed  Effective  Leadership  from  HP Foundation  (2024),  focusing  on key leadership  principles, 
+decision -making, team management, and effective communication skills.  
+ 
